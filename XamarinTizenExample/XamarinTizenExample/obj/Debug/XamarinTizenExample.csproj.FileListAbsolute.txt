@@ -1,0 +1,13 @@
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\XamarinTizenExample.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\XamarinTizenExample.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\obj\Debug\XamarinTizenExample.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\obj\Debug\XamarinTizenExample.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\XamarinTizenExample\XamarinTizenExample\XamarinTizenExample\obj\Debug\XamarinTizenExample.csprojResolveAssemblyReference.cache
